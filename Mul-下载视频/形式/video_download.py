@@ -14,8 +14,8 @@ class VideoCrawler():
         self.proxy_url = 'http://www.xicidaoli.co,/nn/'
         self.filename = 'Video'
 
-        self.down_path = r'C:\Users\PycharmProjects\learn\GUI-DownLoad_Video'
-        self.final_path = r'C:\Users\PycharmProjects\learn\GUI-DownLoad_Video'
+        self.down_path = r'C:\Users\PycharmProjects'
+        self.final_path = r'C:\Users\PycharmProjects'
         self.headrs = [(
             'User-agent',
             'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36')]
