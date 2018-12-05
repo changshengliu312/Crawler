@@ -92,8 +92,8 @@ class Ui_Form(object):
         self.filename = 'test'
         self.mergename = 'video'
         self.m3u8_url = 'http://cache.utovr.com/201508270528174780.m3u8'
-        self.download_path = r'C:\Users\v_liucshliu\PycharmProjects\learn\Mul-DownLoad_Video\\video'
-        self.final_path = r'C:\Users\v_liucshliu\PycharmProjects\learn\Mul-DownLoad_Video'
+        self.download_path = r'C:\Users\Mul-DownLoad_Video\\video'
+        self.final_path = r'C:\Users\Mul-DownLoad_Video'
 
         # sys.stdout = EmittingStream(textWritten=self.normalOutputWritten )
 
